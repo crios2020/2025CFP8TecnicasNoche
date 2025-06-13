@@ -9,3 +9,4 @@ https://tn.com.ar/sociedad/2021/02/08/imc-que-es-y-como-se-calcula/?outputType=a
         b - Crear una función para calcular el IMC.
         c - Crear una función para calcular estado (Delgadez - Normal - Obesidad etc)
         d - Informar IMC y Estado.
+        e - Seguir todas las buenas practicas vistas en clase.
